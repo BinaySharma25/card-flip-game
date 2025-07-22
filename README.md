@@ -9,7 +9,7 @@ Features:
 • Light/Dark Mode toggle
 • Win celebration: a fun celebration effect triggers when the game is complete
 
-🔗 Live Demo: flip-it-gamebinay.netlify.app
+🔗 Live Demo: https://flip-it-gamebinay.netlify.app/
 
 Screenshots:
 
